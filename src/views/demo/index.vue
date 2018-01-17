@@ -9,7 +9,7 @@
 import $ from '@/utils'
 
 export default {
-  name: 'demo',
+  name: 'Demo',
   computed: {
     data () {
       return this.$store.state.demoText

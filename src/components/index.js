@@ -1,5 +1,5 @@
-import Header from './Header/index.vue'
+import Navbar from './Navbar/index.vue'
 
 export default(Vue) => {
-  Vue.component('navbar', Header)
+  Vue.component(Navbar)
 }
